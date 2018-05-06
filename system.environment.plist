@@ -2,14 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>EnvironmentVariables</key>
-    <dict>
-      <key>AN_ENVIRONMENT_VARIABLE_NAME</key>
-      <string>the_value</string>
-    </dict>
-
     <key>Label</key>
-    <string>com.example.touch</string>
+    <string>exec.apps</string>
     <key>ProgramArguments</key>
     <array>
       <string>sh</string>
