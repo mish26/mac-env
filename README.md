@@ -1,6 +1,11 @@
 # mac-env
+macを新規購入した際に、便利なツールを自動でsetupできるようにしています。
 
-下記を実行してください
+# 登録されている設定
+- ShiftIt
+- Finderの上部に絶対Pathを表示
+
+# 実行方法
 ```
 mkdir mac-env
 cd mac-env
